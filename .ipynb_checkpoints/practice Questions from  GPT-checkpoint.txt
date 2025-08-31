@@ -1,0 +1,40 @@
+Great! Here are **5 practice exercises** involving **age calculations and variables** in Python. Try writing the code yourself first, then check the answers below:
+
+---
+
+### 🔹 **Q1. Future Age**
+
+You are 18 years old now. What will your age be after 10 years?
+Store the result in a variable `future_age`.
+
+---
+
+### 🔹 **Q2. Age Difference**
+
+Ali is 25 years old, and Sara is 19 years old. Find the difference between their ages.
+Store the result in a variable `age_diff`.
+
+---
+
+### 🔹 **Q3. Double Your Age**
+
+If your current age is 22, what will be your age after doubling it?
+Store it in `double_age`.
+
+---
+
+### 🔹 **Q4. Half of Age**
+
+You are 30 years old. What is half of your age?
+Store it in `half_age`.
+
+---
+
+### 🔹 **Q5. Age in Months**
+
+If your age is 21, how many months old are you?
+Store the result in `age_in_months`.
+
+---
+
+Would you like the **answers with code**, or do you want to try first?
